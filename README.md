@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/EBISPOT/EJP-Ontology.svg?branch=master)](https://travis-ci.org/EBISPOT/Semantics-for-EGA)
+[![Build Status](https://travis-ci.org/EBISPOT/Semantics-for-EGA.svg?branch=master)](https://travis-ci.org/EBISPOT/Semantics-for-EGA)
 
 
 ![schema]( https://github.com/EBISPOT/Semantics-for-EGA/blob/master/docs/ega.jpg)
