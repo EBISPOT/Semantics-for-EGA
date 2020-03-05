@@ -1,0 +1,18 @@
+****** Meeting with Dylan on EGA metadata****
+ 
+
+   1. The focus of the major datasets in EGA
+
+   2. How to gain access to this dataset
+
+   3. Clean up all the metadata and do a retrofit of ontology terms on it
+
+   4. Bringing data-flow into secure data archive -bring semantics pieces into the secure 	data archive , EGA proper markup for rare diseases data, using this semantic model 	to markup the data.
+
+    5. Look at all the rare diseases data in EGA , clean up all the metadata and do a 		retrofit of ontology terms on it , mapping to the disease terms in EGA, to 		orphanet and other ontology; get access to get/see the metadata in EGA, do 		metadata cleanup for it, metadata clean up for over millions samples rare diseases 	data which Mallory is also interested in, get all of the rare disease data and map 	it to ontology terms and show that we have a semantic model to drive it.
+
+    6. Annotate all the data in EGA and demonstrate the application of the semantic model 	to the EGA data. (Local Win) including them in semantic models (millions samples 	rare diseases data). Apply to real life scenario, data cleanup strategy, clean 		metadata
+
+    7. Link up the prototyping to Thomas’ deliverable
+
+    8. Nico to help with handling the genetic aspart
